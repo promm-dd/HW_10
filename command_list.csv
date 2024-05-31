@@ -1,0 +1,256 @@
+    1  pwd
+    2  hel
+    3  help
+    4  help cd
+    5  man cd
+    6  help
+    7  dd
+    8  cd
+    9  cd
+   10  help cd
+   11  cd \\nhelp cd / man cd
+   12  help cd / 
+   13  cd/
+   14  cd ..
+   15  cd ..
+   16  cd ..
+   17  cd ~/Documents
+   18  cd ../
+   19  cd ..
+   20  cd ../
+   21  ls
+   22  ls
+   23  ls -1
+   24  pwd
+   25  ls
+   26  ls -1
+   27  ls -a
+   28  cp
+   29  u
+   30  la -1
+   31  ls -1
+   32  ls -a
+   33  man ls
+   34  top
+   35  top
+   36  ping
+   37  q
+   38  ping
+   39  man ping 
+   40  man ping
+   41  ping google.com
+   42  clear
+   43  ifconfig
+   44  date
+   45  date
+   46  git -version
+   47  git --version
+   48  зштп
+   49  ping
+   50  ls -1
+   51  ls --a
+   52  ;s -a
+   53  ls-a
+   54  ls -a
+   55  ..
+   56  help 
+   57  man 
+   58  pws
+   59  pwd
+   60  clear
+   61  date
+   62  system_profiler
+   63  clear
+   64  whoami
+   65  df -h
+   66  ifconfig 
+   67  ip adress
+   68  ip adsress
+   69  ip assress
+   70  ip address
+   71  шасщташп
+   72  ifconfig
+   73  ifconfig
+   74  cat
+   75  ifconfig
+   76  clear
+   77  mkdir HW_git
+   78  mkdir HwGit
+   79  mkdir HW_Git
+   80  cd HW_Git
+   81  .bash_history
+   82  history -c && rm 
+   83  .bash_history
+   84  clear
+   85  git -- version 
+   86  git --version
+   87   mkdir HW_10
+   88  help cd
+   89  man cd
+   90  mkdir clear
+   91  rmdir HW_10
+   92  clear
+   93  mkdir HW_10
+   94  open HW_10
+   95  rmdir HW_Git
+   96  rmdir HW_10
+   97  mkdir HW_10
+   98  cd 
+   99  redir HW_Git
+  100  rmdir HW_Git
+  101  mkdir HW_10
+  102  зцв
+  103  pwd
+  104  history -c && rm ~
+  105  cd HW_10
+  106  history -c && rm ~
+  107  .bash_history 
+  108  cd HW_10_folder
+  109  cd HW_10
+  110  cd HW_10
+  111  clear
+  112  mkdir HW_10
+  113  cd HW_10
+  114  history -c && rm ~
+  115  rmdir HW_10
+  116  rm HW_10
+  117  pwd
+  118  cd HW_10
+  119  clear
+  120  clear
+  121  mkdir HW_10
+  122  ды -1
+  123  ls -1
+  124  ls
+  125  clear
+  126  mkdir cd repos
+  127  cd repos
+  128  cd clon_repo
+  129  /
+  130  \\nq
+  131  mkdir HW_10
+  132  cd HW_10
+  133  history -c && rm ~
+  134  history -c && rm ~/.bash_history
+  135  git config --global user.name "Dmitri"
+  136  git config --global user.email "fizruk882@gmail.com"
+  137  git clone https://github.com/promm-dd/HW_10.git
+  138  cd HW_10
+  139  touch text_ignore.txt
+  140  cd .gitignore
+  141  git clone https://github.com/promm-dd/HW_10.git
+  142  cd HW_10
+  143  cd HW_10/
+  144  git status
+  145  git add
+  146  git add clear
+  147  clear
+  148  cd HW_10
+  149  mkdir HW_10
+  150  cd HW_10
+  151  history -c && rm ~/.bash_history
+  152  git config --global user.name "Dmitrii"
+  153  git config --global user.email "fizruk882@gmail.com"
+  154  git clone https://github.com/promm-dd/HW_10.git
+  155  cd https://github.com/promm-dd/HW_10.git
+  156  cd HW_10
+  157  touch text_ignore.txt
+  158  ls
+  159  ls -1
+  160  cd .gitignore
+  161  echo "text_ignore.txt" >> .gitignore
+  162  git status
+  163  git add .
+  164  git commit -m
+  165  touch main_test.txt
+  166  gid add.
+  167  git ass .
+  168  git add .
+  169  git commit -m "додано порожн файл"
+  170  cd clera
+  171  clear
+  172  mkdir HW_10
+  173  cd HW_10 
+  174  history -c && rm ~/.bash_history
+  175  git congig --global user.name "Dmitrii"
+  176  undo
+  177  git config --global user.email "fizruk882@gmail.com"
+  178  git clone https://github.com/promm-dd/HW_10.git
+  179  cd HW_10 
+  180  touch text_ignore.txt
+  181  cd .gitignore
+  182  encho "text_ignore.txt" >> .gitignore
+  183  echo "text_ignore.txt" >> .gitignore
+  184  git status 
+  185  git add .
+  186  git commit -m "Додано text_ignore.txt до .gitignore та проіндексовано зміни"
+  187  touch main_test.txt 
+  188  git add .
+  189  git commit -m "Додано порожній файл main_test.txt"
+  190  git branch developer 
+  191  touch develop_test.txt 
+  192  remove touch develop_test.txt
+  193  git branch develop 
+  194  git checkout develop
+  195  git add .
+  196  git commit 
+  197  git status 
+  198  git checkout develop
+  199  git status
+  200  git add .
+  201  git commit
+  202  clear
+  203  mkdir repos_test
+  204  cd repos_test
+  205  history -c && rm ~/.bash_history
+  206  history -c && rm ~/.bash_history
+  207  git config --global user.name "Dmitrii"
+  208  git config --global user.email "fizruk882@gmail.com"
+  209  git clon https://github.com/promm-dd/HW_10.git
+  210  git clone https://github.com/promm-dd/HW_10.git
+  211  cd HW_10
+  212  cd repos_clon
+  213  cd repos_test
+  214  cd HW_10
+  215  git clone https://github.com/promm-dd/HW_10.git
+  216  cd HW_10
+  217  touch text_ignore.txt 
+  218  clear
+  219  cd HW_10
+  220  ls -1
+  221  ls -a
+  222  clear
+  223  clear
+  224  mkdir HW_10
+  225  cd HW_10
+  226  history -c && rm ~/.bash_history\n
+  227  history -c
+  228  history -c && rm ~/.zsh_history\n
+  229  git config --global user.name "Dmitrii"
+  230  git config --global user.email "fizruk882@gmail.com"
+  231  git clone https://github.com/promm-dd/HW_10.git
+  232  cd HW_10
+  233  touch text_ignore.txt
+  234  enho "text_ignore.txt" >> .gitignore
+  235  echo "text_ignore.txt" >> .gitignore
+  236  git status 
+  237  git add.
+  238  git add .
+  239  git commit -m "Додано порожній файл main_test.txt"
+  240  git branch develop 
+  241  git checkout develop
+  242  touch develop_test.txt
+  243  git add .
+  244  git commit -m "Створено порожній файл develop_test.txt"
+  245  nano develop_test.txt
+  246  nano develop_test.txt
+  247  vim develop_test.txt
+  248  nano develop_test.txt
+  249  nano develop_test.txt
+  250  git status
+  251  git add .
+  252  git commit -m "Додано зміни до файлу develop_test.txt"
+  253  checkout main 
+  254  git checkout main 
+  255  git merge develop 
+  256  git log
